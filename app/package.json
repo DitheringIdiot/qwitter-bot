@@ -1,0 +1,14 @@
+{
+  "name": "qwitter-bot",
+  "version": "1.0.0",
+  "description": "A bot that helps you quit twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
