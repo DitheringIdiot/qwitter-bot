@@ -49,7 +49,9 @@ const replies = [
   "If you're feeling down when you use twitter, it's probably time to tweet your goodbyes. When you're ready, here's the instructions to deactivate your account…",
   "Once you leave twitter, you probably won't want to come back. There's so much more to live for! Here's what you need to do to leave…",
   "Quitting social media isn't easy, but is a huge step towards becoming a healthier happier human. Take the leap. Here's what you need to do to quit twitter…",
-  "Nobody ever regrets leaving twitter. There are no downsides to quitting. Here's how to deactivate your account…"
+  "Nobody ever regrets leaving twitter. There are no downsides to quitting. Here's how to deactivate your account…",
+  "Social Media can actually make us feel more isolated and sad. If you feel like it's getting in the way of your happiness. It\'s probably time to quit…",
+  ""
 ]
 
 
