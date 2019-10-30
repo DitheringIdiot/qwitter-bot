@@ -61,8 +61,11 @@ const replies = [
   "Considering leaving twitter? Maybe try for a while and see how you feel. Here’s how…",
   "Social media is bad for your brain, your happiness, and your democracy. If you're thinking of quitting, here’s how…",
   "Just like drugs social media is highly addictive. But unlike drugs, it’s not even fun when you’re on it. Here’s how to quit…",
-  "Ever found yourself on social media when you shouldn’t be? Driving? A family dinner? A funeral? That could mean you have a problem. Time to quit, here’s how…"
+  "Ever found yourself on social media when you shouldn’t be? Driving? A family dinner? A funeral? That could mean you have a problem. Time to quit, here’s how…",
+  ""
 ]
+
+const emojis = [👋,🤖,🕊,😄,😀,😃,😺,👏]
 
 
 
@@ -125,7 +128,7 @@ function sendReply(tweet){
   // All our tweets will have the same instructions on how to quit twitter
   const instructions = '\n\r\n\rsettings → scroll to the bottom of the page → deactivate your account → deactivate'
   // Now we create the reply - the handle + a random reply from our set of predefined replies + the instructions on how to quit
-  var response = '@' + screenName + ' ' + replies[Math.floor(Math.random() * replies.length)] + instructions
+  var response = '@' + screenName + ' ' + emojis[Math.floor(Math.random() * emojis.length)] + ' ' + replies[Math.floor(Math.random() * replies.length)] + instructions
 
   T.post('statuses/update', {
 
