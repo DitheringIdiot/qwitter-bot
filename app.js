@@ -52,7 +52,16 @@ const replies = [
   "Quitting social media isn't easy, but is a huge step towards becoming a healthier happier human. Take the leap. Here's what you need to do to quit twitter…",
   "Nobody ever regrets leaving twitter. There are no downsides to quitting. Here's how to deactivate your account…",
   "Social Media can actually make us feel more isolated and sad. If you feel like it's getting in the way of your happiness. It\'s probably time to quit…",
-  ""
+  "Social media can seriously harm your mental health. Kanye quit twitter and so can you! Here's how…",
+  "If you find yourself mindlessly scrolling without feeling satisfied. It’s probably time to quit. Here’s how…",
+  "Science has proven that social media sucks. It’s time to quit, here’s how…",
+  "Feeling down when you use social media, could be time to delete your account. Here’s how…",
+  "Social media sites are designed to increase engagement, and the best way to get you to engage is with rage. Feeling rage? Time to quit…",
+  "Social media is responsible for the downfall of western democracy. It can also make you feel pretty crumby. Here’s how to quit…",
+  "Considering leaving twitter? Maybe try for a while and see how you feel. Here’s how…",
+  "Social media is bad for your brain, your happiness, and your democracy. If you're thinking of quitting, here’s how…",
+  "Just like drugs social media is highly addictive. But unlike drugs, it’s not even fun when you’re on it. Here’s how to quit…",
+  "Ever found yourself on social media when you shouldn’t be? Driving? A family dinner? A funeral? That could mean you have a problem. Time to quit, here’s how…"
 ]
 
 
