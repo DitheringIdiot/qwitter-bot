@@ -1,4 +1,7 @@
+require('dotenv').config()
 var Twit = require('twit')
+
+console.log(process.env.CONSUMER_KEY);
 
 var T = new Twit({
   consumer_key:process.env.CONSUMER_KEY,
