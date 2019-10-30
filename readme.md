@@ -1,6 +1,7 @@
-# how to make a twitter bot — that helps people quit twitter.
-## A quick guide to building a twitter bot in node.js
+#Qwitter Bot
 
-Before we begin, we'll take a look at what a twitter bot can do, and some examples of existing twitter bots.
+Qwitter bot was made as an example in this tutorial:
+[How to make a twitter bot with node.js](https://beautifuldingbats.com/how-to-make-a-twitter-bot)
 
-Note — this tutorial assumes you have basic knowledge of javascript and node.js
+Let me know if you have any ideas for improving it.
+
